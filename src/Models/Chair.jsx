@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import { Plane, SoftShadows, useGLTF } from "@react-three/drei";
+import { SoftShadows, useGLTF } from "@react-three/drei";
 import { useInteraction } from "@react-three/xr";
 
 export default function Model({ vis, pos }) {
