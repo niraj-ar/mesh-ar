@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mesh-ar/static/css/main.c75224b4.css",
+    "main.js": "/mesh-ar/static/js/main.07336c01.js",
+    "index.html": "/mesh-ar/index.html",
+    "main.c75224b4.css.map": "/mesh-ar/static/css/main.c75224b4.css.map",
+    "main.07336c01.js.map": "/mesh-ar/static/js/main.07336c01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c75224b4.css",
+    "static/js/main.07336c01.js"
+  ]
+}
