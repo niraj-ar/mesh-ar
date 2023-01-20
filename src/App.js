@@ -1,6 +1,6 @@
 import React from 'react'
 import ObjectPlacement from './components/ObjectPlacement'
-import Rotate from './components/Rotate'
+// import Rotate from './components/Rotate'
 
 const App = () => {
   return (

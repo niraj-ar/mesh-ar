@@ -1,4 +1,4 @@
-import { Cylinder, Plane, Ring } from "@react-three/drei";
+import { Cylinder } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 import React from "react";
 
