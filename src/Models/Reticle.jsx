@@ -1,5 +1,5 @@
 import { Cylinder } from "@react-three/drei";
-import { Canvas } from "@react-three/fiber";
+// import { Canvas } from "@react-three/fiber";
 import React from "react";
 
 const Reticle = ({ hitRef, vis }) => {
