@@ -1,6 +1,7 @@
 {
   "name": "mesh-ar",
   "version": "0.1.0",
+  "homepage": "https://niraj-ar.github.io/mesh-ar",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^9.53.0",
@@ -16,6 +17,8 @@
     "three": "^0.148.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
